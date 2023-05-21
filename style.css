@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+body{
+  background: rgb(70, 142, 236);
+  font: normal 14pt Oswald;
+}
+
+header{
+  color: white;
+  text-align: center;
+
+}
+
+h1{
+  text-align: center;
+}
+
+div{
+  text-align: center;
+  padding: 6px;
+}
+
+section{
+  background: #ffffff;
+  border-radius: 10px;
+  padding: 15px;
+  width: 500px;
+  margin: auto;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.836);
+}
+
+footer{
+  color: white;
+  text-align: center;
+  font-style: italic;
+}
